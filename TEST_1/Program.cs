@@ -6,6 +6,7 @@ namespace TEST_1
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
             Console.WriteLine("Hello World!");
             Console.ReadKey();
         }
